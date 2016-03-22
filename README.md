@@ -1,4 +1,7 @@
-## Waterstrong Home
+## Waterstrong Home Page
 
-Home Page: <http://waterstrong.github.io>
+Please visit: <http://waterstrong.github.io>
 
+### License
+
+[MIT](http://opensource.org/licenses/MIT)
