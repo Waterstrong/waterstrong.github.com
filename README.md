@@ -1,6 +1,6 @@
 ## Waterstrong Home Page
 
-Please visit: <http://waterstrong.github.io>
+Please visit: <http://waterstrong.me>
 
 ### License
 
