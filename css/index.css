@@ -275,12 +275,13 @@ h1 {
 }
 
 .page1 .inner .button,.page2 .button {
+	top: 80px;
 	width: 246px;
 	height: 50px;
 	border: 2px solid rgba(255,255,255,.8);
 	border-radius: 50px;
 	display: block;
-	margin: 0 auto;
+	margin: 35px auto;
 	line-height: 50px;
 	text-align: center;
 	color: rgba(255,255,255,.8);
@@ -1518,7 +1519,7 @@ h1 {
 	display: block;
 	width: 150px;
 	height: 150px;
-	background: url(../img/mobile_qr_code.png) no-repeat;
+	background: url(../img/qr-black.png) no-repeat;
 	background-size: cover;
 	margin: 0 auto;
 	border-radius: 6px
@@ -1828,13 +1829,13 @@ h1 {
 
 #navgation .nav-wrapper .logo {
 	display: block;
-	width: 185px;
-	height: 50px;
-	background: url(../img/logo.png) no-repeat;
+	width: 150px;
+	height: 150px;
+	background: url(../img/logo_nav.png) no-repeat;
 	background-size: cover;
 	position: absolute;
-	bottom: 30px;
-	right: 50px
+	bottom: 0px;
+	right: 60px
 }
 
 .page-init>.inner {
@@ -2045,7 +2046,7 @@ h1 {
 	height: 46px;
 	position: fixed;
 	top: 50%;
-	margin-top: 134px;
+	margin-top: -85px;
 	right: 50px;
 	z-index: 52;
 	margin-right: -16px;
