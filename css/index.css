@@ -226,14 +226,15 @@ h1 {
 }
 
 .page1 h1,.page1 h3 {
-	text-indent: -9999em;
+	color: wheat;
+	/*text-indent: -9999em;*/
 	text-align: center
 }
 
 .page1 h1 {
 	width: 680px;
 	height: 60px;
-	background: url(../img/index_p1_h1.png) 50% no-repeat;
+	/*background: url(../img/index_p1_h1.png) 50% no-repeat;*/
 	background-size: 100% auto;
 	margin: 0 auto 0 auto
 }
@@ -241,7 +242,7 @@ h1 {
 .page1 h3 {
 	width: 320px;
 	height: 40px;
-	background: url(../img/index_p1_p.png) 50% no-repeat;
+	/*background: url(../img/index_p1_p.png) 50% no-repeat;*/
 	background-size: 100% auto;
 	margin: 20px auto 0 auto
 }
