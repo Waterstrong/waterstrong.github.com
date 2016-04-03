@@ -651,7 +651,7 @@ a.link:hover,.fc-important,.fc-red {
 }
 
 .f-load-img {
-	background: url(http://data.smohan.net/static/img/logo_grey.png) center no-repeat #f1f2f0;
+	background: url(../img/logo_grey.png) center no-repeat #f1f2f0;
 	background-size: auto auto
 }
 
