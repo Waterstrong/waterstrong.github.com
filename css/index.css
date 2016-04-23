@@ -276,7 +276,7 @@ h1 {
 }
 
 .page1 .inner .button,.page2 .button {
-	top: 80px;
+	top: 20%;
 	width: 246px;
 	height: 50px;
 	border: 2px solid rgba(255,255,255,.8);
@@ -1787,7 +1787,7 @@ h1 {
 	width: 100%;
 	position: fixed;
 	top: 50%;
-	margin-top: -150px;
+	margin-top: -230px;
 }
 
 #navgation .nav-wrapper .nav li {
