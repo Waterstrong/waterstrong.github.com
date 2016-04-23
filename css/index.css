@@ -232,7 +232,7 @@ h1 {
 }
 
 .page1 h1 {
-	width: 690px; /*680px*/
+	width: 680px; /*680px*/
 	height: 60px;
 	/*background: url(../img/index_p1_h1.png) 50% no-repeat;*/
 	background-size: 100% auto;
@@ -2145,7 +2145,7 @@ h1 {
 	}
 
 	.page1 h1 {
-		width: 520px;
+		width: 550px;
 		height: 46px
 	}
 
